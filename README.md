@@ -6,4 +6,4 @@ Remediation: Use parameterized queries to sanitize input.
 
 ## SQL Injection Bypass Login
 Payload used: administration'--.
-Remediation: Use parameterized queries to sanitize inut.
+Remediation: Use parameterized queries to sanitize input.
